@@ -1,0 +1,16 @@
+#p1 {
+    color: black;
+}
+
+#p2{
+    color: rgb(121, 185, 240);
+}
+
+.borda{
+    border: 2px solid chartreuse;
+    border-radius: 20px;
+}
+
+.sobra{
+    box-shadow: 5px 5px 10px red;
+}
